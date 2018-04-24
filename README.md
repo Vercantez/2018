@@ -119,6 +119,7 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Mattia Fonisto](https://about.me/uzarel)|[GitHub](https://github.com/Uzarel/Heart-of-Mathematics)|[YouTube](https://youtu.be/_BiAqXCkpPA)|UIKit, SpriteKit, CoreGraphics|Accepted|
 |[Mauricio Lorenzetti](https://github.com/mauricio-lorenzetti/)|[GitHub](https://github.com/mauricio-lorenzetti/Connecting-Dots-WWDC18)| | CoreAnimation, UIKit | Accepted |
 |[Mehul Mohan](https://twitter.com/mehulmpt/)|[GitHub](https://github.com/mehulmpt/wwdc2018)| [YouTube](https://www.youtube.com/watch?v=Hg0k5xvj68s) | SpriteKit, AVFoundation |Submitted|
+|[Miguel Salinas](https://github.com/Vercantez)|[GitHub](https://github.com/Vercantez/Synesthesia)|[YouTube](https://youtu.be/hIYFR4CwJ9I)|Accelerate, AVFoundation, Cocoa|Accepted|
 |[Mikey T. Krieger](https://www.helikes.it/) | [GitHub](https://github.com/mtkrieger/AstroYoga) | [YouTube](https://youtu.be/qE-lkiyXM1E) | Playground Books, UIKit, SceneKit, SpriteKit | Rejected |
 |[Ming Mai](https://twitter.com/mmdadao/) | [GitHub](https://github.com/kingcos/ML-Scratch-WWDC18) | | ARKit, CoreML, PlaugroundBooks, SceneKit, Vision | Submitted |
 |[Mingyuan Hu](https://github.com/miamiaH) | | [YouTube](https://www.youtube.com/watch?v=uEBkfUbR7Ys) | CoreGraphics, UIKit | Submitted | 
@@ -145,7 +146,6 @@ To add your own below, just [edit](https://github.com/wwdc/2018/edit/master/READ
 |[Ricardo V. Del Frari](https://github.com/ricardovdf)|[GitHub](https://github.com/ricardovdf/wwdc2018)|[YouTube](https://www.youtube.com/watch?v=-KsAopkgNXM&feature=youtu.be)|SpriteKit| Rejected|
 |[Roland Horváth](https://rolandhorvath.hu)|[GitHub](https://github.com/hroland/wwdc18)|[YouTube](https://www.youtube.com/watch?v=19DRxB3yxy4)| ARKit, SceneKit, UIKit, Speech | Accepted |
 |Ryan Klohr| | | GameKit, AVFoundation, SpriteKit | Rejected |
-|[Salman Husain](https://blog.services.aero2x.eu) | [GitHub](https://github.com/shusain93/WWDC18) | [YouTube](https://www.youtube.com/watch?v=GHlE__BtQBk) | SpriteKit, UIKit, Playground Books | Accepted |
 |[Sam Eckert](https://sam0711er.com) | | [YouTube](https://youtu.be/vEyxsDpCYdY) | ARKit, SceneKit, UIKit (+Dynamics), AVKit, AVFoundation | Rejected |
 |[Samay Shamdasani](https://shamdasani.org) | [GitHub](https://github.com/shamdasani/SwiftFrameworks) | [YouTube](https://www.youtube.com/watch?v=b3Huqtw2log) | SceneKit, Core Animation, Core Graphics, UIKit, AVFoundation, Vision | Submitted |
 |Sanjay Soni | | |GameKit, GameplayKit, SpriteKit, UIKit|Submitted| 
